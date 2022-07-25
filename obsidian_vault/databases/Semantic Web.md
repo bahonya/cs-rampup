@@ -1,0 +1,2 @@
+## Semantic Web
+The term “Semantic Web” refers to W3C’s vision of the Web of linked data. Semantic Web technologies enable people to create data stores on the Web, build vocabularies, and write rules for handling data. Linked data are empowered by technologies such as [[RDF]], SPARQL, OWL, and SKOS.

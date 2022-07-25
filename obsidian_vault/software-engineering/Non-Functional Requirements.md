@@ -1,0 +1,3 @@
+- **How** should the system work?
+- Quality requirements
+- more about the details of the implementation

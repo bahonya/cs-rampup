@@ -1,0 +1,3 @@
+- find corresponding rows in two different tables
+- add information from one table to another
+- important, when large table is split into multiple small tables (e.g due to [[Normalization]])

@@ -1,0 +1,2 @@
+- adds [[Joins]] to the [[Relational Algebra (RA)]]
+- 

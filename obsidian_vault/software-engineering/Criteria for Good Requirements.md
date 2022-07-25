@@ -1,0 +1,6 @@
+- unambigous
+- complete
+- consitent
+- correct
+- understandable
+- changeable

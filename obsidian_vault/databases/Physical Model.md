@@ -1,0 +1,2 @@
+- Implementation details
+- Often cerated by the database tools themselves

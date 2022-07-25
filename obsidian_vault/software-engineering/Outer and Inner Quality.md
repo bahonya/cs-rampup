@@ -1,0 +1,6 @@
+- Functionality (works accurately)
+- Reliabilty (can recover from errors $\to$ [[Fault Tolerance]])
+- Usability (eays to learn)
+- Efficiency (responds quickly)
+- Changeability (easy to modify)
+- Portability (easy to switch devices)

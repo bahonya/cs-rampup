@@ -1,0 +1,3 @@
+- still close to the users's view on the data
+- closer to the implementation
+- generally describes the structure in which the data is organized on a computer

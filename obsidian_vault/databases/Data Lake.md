@@ -1,0 +1,1 @@
+Heterogeneous information stored in a centralized repository

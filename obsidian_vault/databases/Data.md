@@ -1,0 +1,3 @@
+- known facts
+- can be recorded
+- implicit meaning

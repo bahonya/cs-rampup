@@ -1,0 +1,1 @@
+An abstraction of an object. All members of an entity set have the same kind of attributes.

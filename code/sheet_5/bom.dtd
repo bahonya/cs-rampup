@@ -1,0 +1,10 @@
+<!ENTITY company SYSTEM "ACME Inc.">
+
+<!ELEMENT bom (product+)>
+<!ELEMENT product (part+)>
+<!ATTLIST product product_num CDATA #REQUIRED>
+<!ELEMENT part (#PCDATA)>
+<!ATTLIST part part_num CDATA #REQUIRED>
+<!ATTLIST part type CDATA #IMPLIED>
+<!ATTLIST part class (A|B|C) "C">
+<!ATTLIST part weight CDATA #REQUIRED>

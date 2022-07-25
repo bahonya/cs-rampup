@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE bom SYSTEM "bom.dtd">
+
+<bom>
+    <product product_num="03.01.1000">
+        <part part_num="2" weight="3">
+        </part>
+    </product>
+    <product product_num="03.01.1000">
+        <part part_num="2" weight="3">
+        </part>
+    </product>
+</bom>

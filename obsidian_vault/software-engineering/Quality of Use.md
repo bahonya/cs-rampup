@@ -1,0 +1,4 @@
+- Efficiveness (does what it it is supposed to do $\to$ respects the accuracy limits of the user)
+- Productitvity (not too time consuming)
+- Safety/Security (respects the given risk limits)
+- Satisfaction (User is satisfied with the software, happy to use it)
